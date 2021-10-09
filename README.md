@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # calculateFlutter
 
 A new Flutter project.
